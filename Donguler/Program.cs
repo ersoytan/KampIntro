@@ -6,7 +6,7 @@ namespace Donguler
     {
         static void Main(string[] args)
         {
-            string[] kurslar = new string[] { "yazılım kursu", "donanım kursu", "pyton", "java" };
+            string[] kurslar = new string[] { "yazılım kursu", "donanım kursu2", "pyton", "java" };
 
 
             for (int i = 0; i<kurslar.Length; i++)
